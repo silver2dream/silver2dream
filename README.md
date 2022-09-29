@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silver2dream&label=Profile%20views&color=0e75b6&style=plastic" alt="silver2dream" /> </p>
 
-<a href="./profile-3d-contrib/profile-night-green.svg">
-    <img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+<a href="./profile-3d-contrib/profile-night-rainbow.svg">
+    <img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
 </a>
 
 
