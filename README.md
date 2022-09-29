@@ -7,7 +7,7 @@
     <img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
 </a>
 
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/silver2dream?theme=unicorn&font=Carme&ext=activity)
 
 <h3 align="left">Languages </h3>
 <p align="left"> 
