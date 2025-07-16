@@ -26,7 +26,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=silver2dream&show_icons=true&theme=tokyonight&hide_title=true" alt="stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silver2dream&layout=compact&theme=tokyonight&hide_title=true" alt="top-langs" height="180"/>
 </p>
 
 ### 🌟 Featured Projects
