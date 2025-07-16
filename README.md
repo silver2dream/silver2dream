@@ -1,5 +1,55 @@
-<h1 align="center">Hi 👋, I'm Hank</h1>
-<h3 align="center">A passionate backend developer from Taiwan</h3>
+<h1 align="center">Hi there 👋, I'm Hank (silver2dream)</h1>
+<h3 align="center">Backend & Systems Engineer | C++/Go Enthusiast | Building high‑performance stuff</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Code%20is%20poetry;Backend%20developer%20from%20Taiwan;Living%20in%20Dublin%20🇮🇪;Open‑source%20lover%20❤️&center=true&width=500&height=45">
+</p>
+
+---
+
+### 🚀 About Me
+
+* 🗺️  Originally from **Taiwan**, now crafting code in **Dublin, Ireland**
+* 🎮  Designing **Andromeda** – a lock‑step C++ combat‑engine framework
+* 💼  5+ yrs building **Go** micro‑services at scale (GCP, Kubernetes, Grafana, Prometheus)
+* 🌱  Currently exploring **fixed‑point math** for deterministic sims
+
+### 🛠 Tech Stack
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge\&logo=unreal-engine\&logoColor=white)
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=silver2dream&show_icons=true&theme=tokyonight&hide_title=true" alt="stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silver2dream&layout=compact&theme=tokyonight&hide_title=true" alt="top-langs" height="180"/>
+</p>
+
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=silver2dream\&theme=dark)](https://leetcode.com/silver2dream)
+
+### 🌟 Featured Projects
+
+| Repo                                                                           | Description                              | Tech               |
+| ------------------------------------------------------------------------------ | ---------------------------------------- | ------------------ |
+| [**andromeda-linux-cpp**](https://github.com/silver2dream/andromeda-linux-cpp) | C++ lock‑step combat system framework    | C++, Docker, CMake |
+| [**alpheratz**](https://github.com/silver2dream/alpheratz)                     | Lightweight structured logging library   | C++                |
+| [**trade-engine**](https://github.com/silver2dream/trade-engine)               | Rule‑based cryptocurrency trading engine | Go, Redis          |
+| [**leetcode-go**](https://github.com/silver2dream/leetcode-go)                 | My LeetCode journey – 300+ problems      | Go                 |
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=silver2dream&style=flat-square&color=lightgrey" alt="profile views"/>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silver2dream&label=Profile%20views&color=0e75b6&style=plastic" alt="silver2dream" /> </p>
 
@@ -7,30 +57,5 @@
     <img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
 </a>
 
+### 🔥 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/silver2dream?theme=unicorn&font=Carme&ext=activity)
-
-<h3 align="left">Languages </h3>
-<p align="left"> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">Tools </h3>
-<p align="left"> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-</p>
-
-<h3 align="left">Databases </h3>
-<p align="left"> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-</p>
-
-<h3 align="left">Game Engine </h3>
-<p align="left"> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a> 
-</p>
