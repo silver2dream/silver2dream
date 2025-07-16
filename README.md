@@ -1,11 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Hank (silver2dream)</h1>
+<h1 align="center">Hi there 👋, I'm HAN (silver2dream)</h1>
 <h3 align="center">Backend & Systems Engineer | C++/Go Enthusiast | Building high‑performance stuff</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Code%20is%20poetry;Backend%20developer%20from%20Taiwan;Living%20in%20Dublin%20🇮🇪;Open‑source%20lover%20❤️&center=true&width=500&height=45">
-</p>
-
----
 
 ### 🚀 About Me
 
@@ -43,8 +37,7 @@
 | ------------------------------------------------------------------------------ | ---------------------------------------- | ------------------ |
 | [**andromeda-linux-cpp**](https://github.com/silver2dream/andromeda-linux-cpp) | C++ lock‑step combat system framework    | C++, Docker, CMake |
 | [**alpheratz**](https://github.com/silver2dream/alpheratz)                     | Lightweight structured logging library   | C++                |
-| [**trade-engine**](https://github.com/silver2dream/trade-engine)               | Rule‑based cryptocurrency trading engine | Go, Redis          |
-| [**leetcode-go**](https://github.com/silver2dream/leetcode-go)                 | My LeetCode journey – 300+ problems      | Go                 |
+| [**leetcode-go**](https://github.com/silver2dream/leetcode-go)                 | My LeetCode journey                      | Go                 |
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=silver2dream&style=flat-square&color=lightgrey" alt="profile views"/>
