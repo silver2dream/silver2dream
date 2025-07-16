@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm HAN </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=silver2dream&label=Profile%20views&color=0e75b6&style=plastic" alt="silver2dream" /> </p> <h1 align="center">Hi there 👋, I'm HAN </h1>
 <h3 align="center">Backend & Game Developer | Go/C#/C++ Enthusiast | Building high‑performance stuff</h3>
 
 ### 🚀 About Me
@@ -6,7 +6,7 @@
 * 🗺️  Originally from **Taiwan**, now crafting code in **Dublin, Ireland**
 * 🎮  Designing **Andromeda** – a lock‑step C++ combat‑engine framework
 * 💼  5+ yrs building **Go** micro‑services at scale (GCP, Kubernetes, Grafana, Prometheus)
-* 🌱  Currently exploring **fixed‑point math** for deterministic sims
+* 🌱  Currently exploring **fixed‑point** for lock-step sync mechanism
 
 ### 🛠 Tech Stack
 
@@ -44,4 +44,4 @@
 ### 🔥 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/silver2dream?theme=unicorn&font=Carme&ext=activity)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=silver2dream&label=Profile%20views&color=0e75b6&style=plastic" alt="silver2dream" /> </p>
+
