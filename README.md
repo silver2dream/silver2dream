@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm HAN (silver2dream)</h1>
-<h3 align="center">Backend & Systems Engineer | C++/Go Enthusiast | Building high‑performance stuff</h3>
+<h1 align="center">Hi there 👋, I'm HAN </h1>
+<h3 align="center">Backend & Game Developer | Go/C#/C++ Enthusiast | Building high‑performance stuff</h3>
 
 ### 🚀 About Me
 
@@ -29,8 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silver2dream&layout=compact&theme=tokyonight&hide_title=true" alt="top-langs" height="180"/>
 </p>
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=silver2dream\&theme=dark)](https://leetcode.com/silver2dream)
-
 ### 🌟 Featured Projects
 
 | Repo                                                                           | Description                              | Tech               |
@@ -39,16 +37,11 @@
 | [**alpheratz**](https://github.com/silver2dream/alpheratz)                     | Lightweight structured logging library   | C++                |
 | [**leetcode-go**](https://github.com/silver2dream/leetcode-go)                 | My LeetCode journey                      | Go                 |
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=silver2dream&style=flat-square&color=lightgrey" alt="profile views"/>
-</p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=silver2dream&label=Profile%20views&color=0e75b6&style=plastic" alt="silver2dream" /> </p>
-
 <a href="./profile-3d-contrib/profile-night-rainbow.svg">
     <img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
 </a>
 
 ### 🔥 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/silver2dream?theme=unicorn&font=Carme&ext=activity)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=silver2dream&label=Profile%20views&color=0e75b6&style=plastic" alt="silver2dream" /> </p>
