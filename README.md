@@ -39,8 +39,3 @@
 <a href="./profile-3d-contrib/profile-night-rainbow.svg">
     <img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
 </a>
-
-### 🔥 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/silver2dream?theme=unicorn&font=Carme&ext=activity)
-
-
