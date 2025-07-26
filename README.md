@@ -32,7 +32,7 @@
 
 | Repo                                                                           | Description                              | Tech               |
 | ------------------------------------------------------------------------------ | ---------------------------------------- | ------------------ |
-| [**andromeda-linux-cpp**](https://github.com/silver2dream/andromeda-linux-cpp) | C++ lock‑step combat system framework    | C++, Docker, CMake |
+| [**andromeda-linux-cpp**](https://github.com/silver2dream/andromeda-linux-cpp) | High‑performance C++ TCP server framework| C++, Docker, CMake |
 | [**alpheratz**](https://github.com/silver2dream/alpheratz)                     | Lightweight structured logging library   | C++                |
 | [**leetcode-go**](https://github.com/silver2dream/leetcode-go)                 | My LeetCode journey                      | Go                 |
 
