@@ -1,40 +1,31 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=silver2dream&label=Profile%20views&color=0e75b6&style=plastic" alt="silver2dream" /> </p> <h1 align="center">Hi there 👋, I'm HAN </h1>
-<h3 align="center">Backend & Game Developer | Go/C#/C++ Enthusiast | Building high‑performance stuff</h3>
+<h1 align="left">HAN</h1>
+<p align="left"><code>backend & game dev</code></p>
+<br>
 
-### 🚀 About Me
+```
+I build things that run fast and think for themselves.
+```
 
-* 🗺️  Originally from **Taiwan**, now crafting code in **Dublin, Ireland**
-* 🎮  Designing **Andromeda** – a lock‑step C++ combat‑engine framework
-* 💼  5+ yrs building **Go** micro‑services at scale (GCP, Kubernetes, Grafana, Prometheus)
-* 🌱  Currently exploring **fixed‑point** for lock-step sync mechanism
+<br>
 
-### 🛠 Tech Stack
+<table align="center">
+<tr><td><b>Stack</b></td><td>Go · C++</td></tr>
+<tr><td><b>Domain</b></td><td>Real-time combat systems · AI-powered dev workflows · High-performance networking</td></tr>
+</table>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge\&logo=unreal-engine\&logoColor=white)
+<br>
 
-### 📈 GitHub Stats
+### Selected Works
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silver2dream&show_icons=true&theme=tokyonight&hide_title=true" alt="stats" height="180" />
-</p>
+[**claude-agent-farm**](https://github.com/silver2dream/claude-agent-farm) — Self-hosted multi-agent system on K3s. One Discord bot, multiple isolated Claude Code agents, zero cloud dependency.
 
-### 🌟 Featured Projects
+[**ai-workflow-kit**](https://github.com/silver2dream/ai-workflow-kit) — Spec → Implement → PR → Merge. An AI-driven development workflow engine written in Go.
 
-| Repo                                                                           | Description                              | Tech               |
-| ------------------------------------------------------------------------------ | ---------------------------------------- | ------------------ |
-| [**andromeda-linux-cpp**](https://github.com/silver2dream/andromeda-linux-cpp) | High‑performance C++ TCP server framework| C++, Docker, CMake |
-| [**alpheratz**](https://github.com/silver2dream/alpheratz)                     | Lightweight structured logging library   | C++                |
-| [**leetcode-go**](https://github.com/silver2dream/leetcode-go)                 | My LeetCode journey                      | Go                 |
+[**andromeda-linux-cpp**](https://github.com/silver2dream/andromeda-linux-cpp) — High-performance C++ TCP server framework. Master-worker architecture, epoll multiplexing, custom memory pool.
+
+<br>
+
+---
 
 <a href="./profile-3d-contrib/profile-night-rainbow.svg">
     <img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
