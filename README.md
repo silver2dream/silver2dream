@@ -1,5 +1,5 @@
-<h1 align="left">HAN</h1>
-<p align="left"><code>backend & game dev</code></p>
+<h1 align="center">HAN</h1>
+<p align="center"><code>backend & game dev</code></p>
 <br>
 
 ```
